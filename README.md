@@ -18,8 +18,6 @@ Menambahkan pengguna baru ke dalam array sementara.
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/yourusername/my-api.git
+   git clone https://github.com/bangbintang/assignment-day-32-deployment.git
    cd my-api
    ```
-# assignment-day-32-deployment
-# assignment-day-32-deployment
